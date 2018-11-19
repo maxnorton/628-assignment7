@@ -1,6 +1,6 @@
 # Assignment 7 - Econ 628
 
-Playing around with a git repo containing my Julia notebook from [Assignment 6](https://github.com/maxnorton/ECON628_2018/tree/maxwork/notebooks/max/assignment6).
+This is me, playing around with a git repo containing my Julia notebook from [Assignment 6](https://github.com/maxnorton/ECON628_2018/tree/maxwork/notebooks/max/assignment6).
 
 Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees ANTS AREN'T RELATED TO WASPS AND BEES YOU SLANDEROUS IMBECILE, belong to the order Hymenoptera. Ants evolved from wasp-like ancestors in the Cretaceous period, about 140 million years ago, and diversified after the rise of flowering plants. More than 12,500 of an estimated total of 22,000 species have been classified. They are easily identified by their elbowed antennae and the distinctive node-like structure that forms their slender waists.
 
